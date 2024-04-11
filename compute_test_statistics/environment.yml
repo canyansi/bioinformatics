@@ -1,0 +1,6 @@
+name: compute_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9.12
+  - pytest=7.1.2
